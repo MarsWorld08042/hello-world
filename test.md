@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Test Title
 description: Test desc
 ---
